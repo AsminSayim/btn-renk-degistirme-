@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\bin\Debug\button-Renkdeğiştirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\bin\Debug\button-Renkdeğiştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\bin\Debug\button-Renkdeğiştirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button-Renkdeğiştirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button-Renkdeğiştirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button_Renkdeğiştirme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button_Renkdeğiştirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button-Renkdeğiştirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button-Renkdeğiştirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button-Renkdeğiştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Renkdeğiştirme\button-Renkdeğiştirme\obj\Debug\button-Renkdeğiştirme.pdb

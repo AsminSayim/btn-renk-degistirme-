@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "button-Renkdeğiştirme", "button-Renkdeğiştirme\button-Renkdeğiştirme.csproj", "{76D8E9A0-B92D-4940-8980-CCF76FA0673E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D8E9A0-B92D-4940-8980-CCF76FA0673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D8E9A0-B92D-4940-8980-CCF76FA0673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D8E9A0-B92D-4940-8980-CCF76FA0673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D8E9A0-B92D-4940-8980-CCF76FA0673E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0264009F-909E-4D56-B5D2-62FD040BB5B1}
+	EndGlobalSection
+EndGlobal
